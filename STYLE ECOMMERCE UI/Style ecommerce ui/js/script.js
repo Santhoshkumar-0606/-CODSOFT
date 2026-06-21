@@ -1,1 +1,0 @@
-console.log('STYLE ecommerce project');
