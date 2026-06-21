@@ -1,0 +1,1 @@
+const b=document.getElementById('toggle');if(b){b.onclick=()=>{document.querySelector('.email-container').style.maxWidth=document.querySelector('.email-container').style.maxWidth==='375px'?'600px':'375px';}}

@@ -1,0 +1,1 @@
+body{background:#f0f0f0;font-family:Arial,sans-serif}.email-container{max-width:600px;margin:auto;background:#fff}.hero{background:#fde3d3;padding:30px}.btn{background:#f4622d;color:#fff;padding:12px 18px;display:inline-block}.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.card{padding:20px;background:#e8f0ee}@media(max-width:480px){.grid{grid-template-columns:1fr}}
